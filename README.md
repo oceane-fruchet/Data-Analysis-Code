@@ -1,10 +1,10 @@
 # Neuralynx Data Analysis
 
-Wolf Lab
+#### Wolf Lab
 
-Department of Neurosurgery, Perleman School of Medicine
+#### Department of Neurosurgery, Perleman School of Medicine
 
-University of Pennsylvania, Philadelphia (PA)
+#### University of Pennsylvania, Philadelphia (PA)
 
 This git provides Matlab functions used to analyze Neuralynx electrophysiology recordings. This code is routinely used in the lab to perform data analysis and graph results.
 
