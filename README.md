@@ -5,7 +5,7 @@
 #      
 # Data Analysis Code
 
-This git provides Matlab functions used to analyze Neuralynx electrophysiology recordings. This code is routinely used in the lab to perform data analysis and graph results.
+This git contains Matlab functions used to analyze Neuralynx electrophysiology recordings. This code is routinely used in the lab to perform data analysis and graph results.
 
 
 ## Contact
