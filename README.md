@@ -1,6 +1,5 @@
 #### Welcome to the Wolf Lab Git!
-#### Department of Neurosurgery, Perleman School of Medicine
-#### University of Pennsylvania, Philadelphia (PA)
+#### Department of Neurosurgery, Perleman School of Medicine, University of Pennsylvania
 #    
 # Data Analysis Code
 
