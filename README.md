@@ -1,8 +1,6 @@
 # Neuralynx Data Analysis
 
-#### Wolf Lab
-
-#### Department of Neurosurgery, Perleman School of Medicine
+#### Wolf Lab, Department of Neurosurgery, Perleman School of Medicine
 
 #### University of Pennsylvania, Philadelphia (PA)
 
