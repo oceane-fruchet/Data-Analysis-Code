@@ -11,8 +11,7 @@ This git contains Matlab functions used to analyze Neuralynx electrophysiology r
 ## Contact
 
 The Wolf Lab welcomes any feedback and/or questions.
-For any questions regarding the content of this page, please contact Oceane Fruchet: 
-oceane.fruchet@pennmedicine.upenn.edu
+For any questions regarding the content of this page, please contact Oceane Fruchet at the following address:   oceane.fruchet@pennmedicine.upenn.edu
 
 ## Getting Started
 
