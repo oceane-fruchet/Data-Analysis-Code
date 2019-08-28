@@ -6,7 +6,7 @@ Department of Neurosurgery, Perleman School of Medicine
 
 University of Pennsylvania, Philadelphia (PA)
 
-This git provides matlab functions used to analyze Neuralynx electrophysiology recordings. This code is routinely used in the lab to perform data analysis and graph results.
+This git provides Matlab functions used to analyze Neuralynx electrophysiology recordings. This code is routinely used in the lab to perform data analysis and graph results.
 
 
 ## Contact
@@ -23,7 +23,11 @@ Clone this repository onto your local machine, and add the folder to your Matlab
 
 ### Data Preparation
 
-The functions contained in the "Data Preparation" repository allow the users to reorganize the data recorded from Neuralynx into separate folders for each recording, with consistent naming.
+1) In Matlab, navigate to the folder with the Neuralynx recordings. use the following function to organize your data into folders for each recording:
+```
+NB_prepAnalysis(your#ofrecordings)
+```
+2) Converting the Neuralynx .ncs recordings to a .dat file that can be read in Matlab
 
 ### Field Analysis
 
