@@ -1,6 +1,8 @@
-#### Welcome to the Wolf Lab Git!
-#### Department of Neurosurgery, Perleman School of Medicine, University of Pennsylvania
+Welcome to the Wolf Lab Git!
+
+Department of Neurosurgery, Perleman School of Medicine, University of Pennsylvania
 #    
+#      
 # Data Analysis Code
 
 This git provides Matlab functions used to analyze Neuralynx electrophysiology recordings. This code is routinely used in the lab to perform data analysis and graph results.
