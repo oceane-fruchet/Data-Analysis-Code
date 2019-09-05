@@ -1,9 +1,6 @@
 ### Welcome to the Wolf Lab Git!
 
-#### The Wolf Lab is part of the Department of Neurosurgery of the Perelman School of Medicine, at the University of Pennsylvania. The Wolf Lab  is dedicated to understanding the underlying mechanisms of how traumatic brain injury can lead to persistent learning and memory dysfunction, post-traumatic stress disorder, and post-traumatic epilepsy.
-#    
-#      
-# Data Analysis Code
+#### The Wolf Lab is part of the Department of Neurosurgery of the Perelman School of Medicine, at the University of Pennsylvania. The Wolf Lab  is dedicated to understanding the underlying mechanisms of how traumatic brain injury can lead to persistent learning and memory dysfunction, post-traumatic stress disorder, and post-traumatic epilepsy.    
 
 This git contains Matlab functions used to analyze Neuralynx electrophysiology recordings. This code is routinely used in the lab to perform data analysis and graph results.
 
