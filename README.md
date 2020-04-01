@@ -23,6 +23,9 @@ Clone this repository onto your local machine, and add the folder to your Matlab
 NB_prepAnalysis(your#ofrecordings)
 ```
 2) Converting the Neuralynx .ncs recordings to a .dat file that can be read in Matlab
+```
+NlxToKlust([matrixofdesiredCSCnumbers],"datfilename")
+```
 
 ### Field Analysis
 
